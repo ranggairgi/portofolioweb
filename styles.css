@@ -570,6 +570,12 @@ footer {
 
 
 /* Sertifikat Section */
+.custom-badge {
+    background-color: #000; /* Warna hitam */
+    color: #fff; /* Warna teks putih */
+}
+
+
 #certificates {
     padding: 80px 20px;
     
